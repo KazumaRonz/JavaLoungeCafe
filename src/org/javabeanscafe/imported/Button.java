@@ -6,7 +6,7 @@ package org.javabeanscafe.imported;
 
 /**
  *
- * @author Kazuma
+ * @author KazumaRonz
  */
 public class Button {
     
